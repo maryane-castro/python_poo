@@ -1,13 +1,17 @@
-# htmlcss
- curso html5 e css
+<h1 align="center">Poemas</h1>
+<hr>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
-LINK DO SITE:
-<a href="https://maryanecastro11.github.io/htmlcss/modulo2/Desafios/index.html">Executar</a>
-/modulo3/Desafio/cordel/cordel.html
+<h2>Sobre o Projeto</h2>
+<p>Apenas utilizando Django</p>
 
-cordel:
-<a href="https://maryanecastro11.github.io/htmlcss/modulo3/Desafio/cordel/cordel.html">Executar</a>
+<h2>Tecnológias Usadas</h2>
+<p>Django <br>Python</p>
 
-fundo006: Fundo que se adapta
-fundo007: Fundo fixo de tela
+<h2>Funcionalidade</h2>
+<p>Gerencia tarefas e armazena.</p>
+
+
